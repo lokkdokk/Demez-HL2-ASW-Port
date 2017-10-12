@@ -35,9 +35,6 @@ ipch
 hammer.vdf
 GameConfig.txt
 
-game/hl2
-game/portal
-
 src/game/client/Release*
 src/game/client/Debug*
 src/game/server/Debug*
