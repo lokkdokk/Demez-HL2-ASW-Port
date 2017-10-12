@@ -1,0 +1,9 @@
+-All NPC weapons either dont show, or dont do any damage (except alyx's gun apparently)
+-Fast zombie seems to crash game when on fire and is killed in anyway
+-gibs either dont work or the model is missing
+-Lots of "Unhandled eject brass animevent" errors
+-Poison Zombie crashes game when killed (unless is killed from explosion)
+-Door Lock model is missing
+-apparently i damage all npc in the center of the body (or where the orgin of the model is?)
+	-could be some auto aim thing it seems, idk
+-
