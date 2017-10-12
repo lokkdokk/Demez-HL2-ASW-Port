@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-     "$basetexture" "models\props_c17\playgroundTick-tack-toe_post01"
-     "$surfaceprop" "wood"
-     "$envmap" "env_cubemap"	
-     "$basealphaenvmapmask" 1
-}

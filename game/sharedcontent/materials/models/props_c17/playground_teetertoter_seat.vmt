@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-     "$basetexture" "models\props_c17\playground_teetertoter_seat"
-     "$surfaceprop" "metal"
-     "$envmap" "env_cubemap"	
-     "$basealphaenvmapmask" 1
-}

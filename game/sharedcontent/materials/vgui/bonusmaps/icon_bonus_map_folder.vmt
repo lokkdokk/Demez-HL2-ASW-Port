@@ -1,6 +1,0 @@
-//"LightmappedGeneric"
-"UnlitGeneric"
-{
-	"$baseTexture" "vgui/bonusmaps/icon_bonus_map_folder"
-	"$vertexalpha" 1
-}

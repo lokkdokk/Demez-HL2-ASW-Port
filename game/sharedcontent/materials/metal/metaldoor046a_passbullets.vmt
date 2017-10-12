@@ -1,9 +1,0 @@
-// envmaptint_fix
-"LightmappedGeneric"
-{
-	"$basetexture" "Metal/metaldoor046a"
-	"%compilepassbullets" 1
-	"$surfaceprop" "metalgrate"
-	"$alphatest" 1
-	"%keywords" "c17industrial"
-}

@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-
-	"$basetexture" "Metal/metaltruss014a"
-	"$surfaceprop" "metal"
-	"%keywords" "c17downtown"
-	"%compilepassbullets" 1
-	"$alphatest" 1
-}
