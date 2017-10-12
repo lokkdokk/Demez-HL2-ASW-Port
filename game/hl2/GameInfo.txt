@@ -2,7 +2,6 @@
 {
 	game 		"Half-Life 2"
 	title 		"Half-Life 2"
-	title2 		"Episode 3"
 	type		singleplayer_only
 
     "icon"		"game"
@@ -42,8 +41,6 @@
 			
 			//hl2 content
 			Game				hl2content
-			
-			Game				testing
 			
 			//shared content between 2 verisions
 			Game				sharedcontent
