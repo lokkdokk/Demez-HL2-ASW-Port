@@ -40,7 +40,7 @@
 			Game				|gameinfo_path|.
 			
 			//hl2 content
-			Game				hl2content
+			Game				testing
 			
 			//shared content between 2 verisions
 			Game				sharedcontent

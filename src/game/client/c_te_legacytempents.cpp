@@ -61,6 +61,8 @@ PRECACHE_REGISTER_BEGIN( GLOBAL, PrecacheEffectMuzzleFlash )
 	PRECACHE( MATERIAL, "effects/strider_muzzle" )
 PRECACHE_REGISTER_END()
 
+//Whether or not to eject brass from weapons
+//ConVar cl_ejectbrass("cl_ejectbrass", "1");
 
 ConVar func_break_max_pieces( "func_break_max_pieces", "15", FCVAR_ARCHIVE | FCVAR_REPLICATED );
 
