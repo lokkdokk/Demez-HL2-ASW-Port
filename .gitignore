@@ -40,10 +40,11 @@ src/game/client/Debug*
 src/game/server/Debug*
 src/game/server/Release*
 
+*.jpg
+*.hl1
+*.hl2
+*.hl3
+*.hl4
+*.hl5
 
-src/.vs/Game_Deferred-2013/v15/Browse.VC.opendb
-src/materialsystem/deferredshaders/Release_dx9_deferred/game_shader_generic_deferred.lib
-src/materialsystem/deferredshaders/Release_dx9_deferred/game_shader_generic_deferred.dll
-src/materialsystem/deferredshaders/Debug_dx9_deferred/game_shader_generic_deferred.lib
-src/.vs/Game_Deferred-2013/v15/Solution.VC.db-wal
-src/.vs/Game_Deferred-2013/v15/Solution.VC.db-shm
+*.sav
